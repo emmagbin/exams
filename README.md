@@ -2,3 +2,5 @@
 
 2) Admin backend should display reports of the performance of users who have taken an exam,
 display Pass/Fail users.
+
+* **db_changelog.sql holds all changes applied to database**
